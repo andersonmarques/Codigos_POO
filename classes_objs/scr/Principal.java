@@ -3,7 +3,7 @@ public class Principal {
         //new criar um novo obj
         //new responsavel por guardar na memoria o obj
         //new vai fazer a referencia 'portaInterna' apontar para a nova porta
-        //Tipo nomeReferencia= new Objeto();
+        //Tipo nomeReferencia = new Objeto();
         Porta portaQuarto = new Porta();//criando o objeto
         portaQuarto.largura = 70;
         portaQuarto.altura = 2.10f;
